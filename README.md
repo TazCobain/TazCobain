@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taz</h1>
 <h3 align="center">Student of internet of things big data and machine learning at the university of udine (italy). Blockchain entusiast</h3>
 
-<center>
-<img aling="center" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
-</center>
+<center> <img aling="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif"> </center>
 
 - 🌱 I’m currently learning **C#, docker and Solidity**
 
