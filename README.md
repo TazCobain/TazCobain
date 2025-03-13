@@ -1,5 +1,5 @@
 <h1 align="center">hello fellas🤙​, Taz is here</h1>
-<h3 align="center">I am an Italian computer science student studying in Udine. I would like to specialize in the world of blockchain and DLT for IoT in Industry 4.0</h3>
+<h3 align="center">I am an Italian computer science student currently studying in Udine. My goal is to specialize in blockchain and distributed ledger technologies (DLT) for IoT applications within the context of Industry 4.0.</h3>
 
 <div align="center">
 <img alt="Coding time" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
