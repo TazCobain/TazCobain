@@ -5,7 +5,7 @@
 <img alt="Coding time" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 </div>
 
-- 🌱 I’m currently learning **C#, python, docker and Solidity**
+- 🌱 I’m currently learning **C, python, docker and Solidity**
 
 - ⚡ Fun fact **Teamwork divides tasks and multiplies the headache**
 
