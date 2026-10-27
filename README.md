@@ -10,7 +10,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 I hold a **Bachelor’s degree in Computer Science** from the University of Udine.
+
 - 🏭 Currently specializing in **Robotics and Industrial Automation**, with a strong focus on **IoT technologies** for Industry 4.0 applications.
+
 - 🌱 I’m deep diving into **C++**, **Python**, **Docker**, and basically every single technology that feeds my **home labbing** addiction.
 
 <br>
@@ -19,7 +21,7 @@
 <div align="center">
   <!-- Griglia Skillicons aggiornata tramite la repo estesa -->
   <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,js,html,css,php,mysql,postgres,aws,docker,linux,git,arduino,proxmox&perline=8" alt="Tech Stack" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,mysql,postgres,python,java,c,cpp,arduino,linux,proxmox,docker,aws,git&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
